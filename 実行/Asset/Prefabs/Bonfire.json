@@ -1,0 +1,20 @@
+{
+    "modelPath": "Asset/Models/Map/Stage1/BonFire/BonFire.gltf",
+    "name": "Bonfire",
+    "position": [
+        -60.0,
+        0.0,
+        -7.0
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "type": "Bonfire"
+}

@@ -1,0 +1,21 @@
+{
+	{
+		"type": "Enemy",
+		"name": "Enemy_Normal",
+		"hp": 100,
+		"attackPower": 15.0,
+		"position": [ 0, 0, 0 ],
+		"rotation": [ 0, 0, 0 ],
+		"scale": [ 1.0, 1.0, 1.0 ]
+	}
+	{
+		"type": "Player",
+		"name": "Player_Start",
+		"position": [ 0, 1, 0 ],
+		"rotation": [ 0, 0, 0 ],
+		"scale": [ 1, 1, 1 ],
+		"model": "HeroModel.gltf",
+		"animation": "Idle"
+	}
+
+}

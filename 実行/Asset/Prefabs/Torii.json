@@ -1,0 +1,20 @@
+{
+	"modelPath": "Asset/Models/Map/Stage1/Torii/Torii.gltf",
+	"name": "Torii",
+	"position": [
+		0.0,
+		0.0,
+		35.0
+	],
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		1.0,
+		1.0,
+		1.0
+	],
+	"type": "Torii"
+}

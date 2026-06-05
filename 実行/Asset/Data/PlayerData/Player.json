@@ -1,0 +1,70 @@
+// Asset/Data/Player.json
+
+{
+	"name": "Effectia",
+
+	"stats": {
+		"max_hp": 100,
+		"initial_hp": 100,
+		"attack_power": 25,
+		"block_break_hp_threshold": 10
+	},
+
+	"movement": {
+		"walk_speed": 0.1,
+		"run_speed": 0.2,
+		"attack_move_speed": 0.05,
+		"jump_power": 0.5,
+		"gravity_acceleration": 0.05,
+		"max_rotation_angle_per_frame": 5.0
+	},
+
+	"combat": {
+		"max_combo_count": 4,
+		"hit_invincibility_time": 0.3
+	},
+
+	"assets": {
+		"model_path": "Asset/Models/Character/Player/kaya3.0.5/Kaya/Kaya.gltf"
+	},
+
+	"animations": {
+		"Idle": "Idle_Combat",
+		"WalkStart": "Walk_Combat_Start_F_0",
+		"WalkLoop": "Walk_Combat_Loop_F_0",
+		"WalkEnd": "Walk_Combat_Stop_F_0",
+		"RunStart": "Run_Combat_Start_F_0",
+		"RunLoop": "Run_Combat_Loop_F_0",
+		"RunEnd": "Run_Combat_Stop_F_0",
+		"Attack01": "Combo_Attack_05_01",
+		"Attack02": "Combo_Attack_05_02",
+		"Attack03": "Combo_Attack_05_03",
+		"Attack04": "Combo_Attack_05_04",
+		"AttackAll": "Combo_Attack_05_All",
+		"RunAttack01": "Run_Attack_01",
+		"RunAttack02": "Run_Attack_02",
+		"PowerAttack": "Power_Attack",
+		"BlockStart": "Block_Combat_Start",
+		"BlockLoop": "Block_Combat_Loop",
+		"BlockEnd": "Block_Combat_End",
+		"Hit": "Hit_Combat_F",
+		"Blockhit": "Block_Combat_Hit",
+		"BlockHitBreak": "Block_Combat_Hit_Break",
+		"ParryL": "Parry_Combat_L",
+		"ParryR": "Parry_Combat_R",
+		"KnockDwonStart": "Knock_Down_Start",
+		"KnockDwonLoop": "Knock_Down_Loop",
+		"KnockDwonEnd": "Knock_Down_End",
+		"Dodge0": "Dodge_Combat_B_0",
+		"Dodge180": "Dodge_Combat_B_180",
+		"JumpStart": "Jump_Combat_Start_0",
+		"JumpLoop": "Jump_Combat_Loop_0",
+		"JumpEnd": "Jump_Combat_End_0",
+		"DoubleJump": "Double_Jump_Combat_0",
+		"GetUpF": "Get_Up_Combat_F",
+		"GetUpB": "Get_Up_Combat_B",
+		"PotionRun": "Drink_Potion",
+		"PotionWalk": "Drink_Potion",
+		"Buff": "Buff"
+	}
+}

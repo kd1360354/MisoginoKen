@@ -1,0 +1,20 @@
+{
+	"modelPath": "Asset/Models/Map/Stage1/Tou/Pagoda_Goju_57m.gltf",
+	"name": "GojunoTou",
+	"position": [
+		-70.0,
+		0.0,
+		100.0
+	],
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		1.0,
+		1.0,
+		1.0
+	],
+	"type": "GojunoTou"
+}

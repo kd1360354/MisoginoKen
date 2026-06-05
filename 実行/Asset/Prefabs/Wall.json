@@ -1,0 +1,20 @@
+{
+	"modelPath": "Asset/Models/Map/Stage1/Wall/Wall.gltf",
+	"name": "Wall",
+	"position": [
+		0.0,
+		0.0,
+		124.0
+	],
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		200.0,
+		10.0,
+		30.0
+	],
+	"type": "Wall"
+}

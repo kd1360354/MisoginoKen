@@ -1,0 +1,42 @@
+{
+	"attackMoveSpeed": 0.07999999821186066,
+	"attackPower": 55.0,
+	"audioVolume_BGM": 0.20000000298023224,
+	"audioVolume_SE": 0.5,
+	"blockRecoveryRate": 2.0,
+	"dodgeMoveSpeed": 0.15000000596046448,
+	"hpDecreaseRate": 3.0,
+	"jumpPower": 0.800000011920929,
+	"maxAttackMoveDist": 1.5,
+	"maxDodgeMoveDist": 3.0,
+	"maxHp": 1260,
+	"maxStamina": 196.0,
+	"modelPath": "Asset/Models/Character/Player/kaya3.0.5/Kaya/Kaya.gltf",
+	"moveSpeed": 0.0,
+	"name": "Player",
+	"position": [
+		0.0,
+		0.28469276428222656,
+		-58.89988708496094
+	],
+	"potionCount": 10,
+	"potionHealRate": 0.42250001430511475,
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"rotationSpeed": 10.0,
+	"scale": [
+		1.0,
+		1.0,
+		1.0
+	],
+	"staminaCost_Attack": 10.0,
+	"staminaCost_BlockHit": 15.0,
+	"staminaCost_Dodge": 25.0,
+	"staminaCost_RunPerSec": 15.0,
+	"staminaDelay": 1.0,
+	"staminaRecoverRate": 30.0,
+	"type": "Player"
+}

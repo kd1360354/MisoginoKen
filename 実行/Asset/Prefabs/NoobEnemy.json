@@ -1,0 +1,33 @@
+{
+	"attackRadius": 2.0,
+	"baseattackPower": 126.0,
+	"deathEffect": -1,
+	"maxHp": 165.0,
+	"modelPath": "Asset/Models/Character/Enemy/NomalEnemy/ShadeofDefilementAndAnime.gltf",
+	"moveSpeed": 0.0,
+	"name": "NoobEnemy",
+	"position": [
+		-10.274215698242188,
+		0.21686221659183502,
+		-33.354000091552734
+	],
+	"rimLightColor": [
+		1.0,
+		0.20000000298023224,
+		0.25
+	],
+	"rimPower": 5.0,
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"rotationSpeed": 10.0,
+	"scale": [
+		1.0,
+		1.0,
+		1.0
+	],
+	"searchRadius": 15.0,
+	"type": "Enemy"
+}

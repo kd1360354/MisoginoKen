@@ -1,0 +1,24 @@
+{
+	"modelPath": "Asset/Models/Map/Stage1/Ground/Approach.gltf",
+	"name": "Approach",
+	"position": [
+		0.0,
+		0.0010000000474974513,
+		0.0
+	],
+	"rotation": [
+		0.0,
+		90.0,
+		0.0
+	],
+	"scale": [
+		20.0,
+		1.0,
+		1.0299999713897705
+	],
+	"type": "Approach",
+	"uvTile": [
+		5.0,
+		5.0
+	]
+}

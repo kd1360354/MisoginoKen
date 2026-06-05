@@ -1,0 +1,20 @@
+{
+	"modelPath": "Asset/Models/Map/Stage1/Fence/Fence.gltf",
+	"name": "Fence",
+	"position": [
+		62.0,
+		0.0,
+		35.0
+	],
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		2.0,
+		2.0,
+		2.0
+	],
+	"type": "Fence"
+}

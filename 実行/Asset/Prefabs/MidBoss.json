@@ -1,0 +1,35 @@
+{
+    "CurrentattackPower": 1.0,
+    "attackRadius": 3.0,
+    "baseattackPower": 378.0,
+    "deathEffect": -1,
+    "hpRatio": 0.5,
+    "maxHp": 600.0,
+    "modelPath": "Asset/Models/Character/Enemy/MidBoss/VampireALusth.gltf",
+    "moveSpeed": 0.05000000074505806,
+    "name": "MidBoss",
+    "position": [
+        70.0,
+        0.0,
+        50.0
+    ],
+    "rimLightColor": [
+        1.0,
+        0.20000000298023224,
+        0.25
+    ],
+    "rimPower": 5.0,
+    "rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "rotationSpeed": 10.0,
+    "scale": [
+        1.5,
+        1.5,
+        1.5
+    ],
+    "searchRadius": 10.0,
+    "type": "MidBoss"
+}

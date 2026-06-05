@@ -1,0 +1,35 @@
+{
+    "CurrentattackPower": 0.0,
+    "attackRadius": 3.0,
+    "baseattackPower": 756.0,
+    "deathEffect": -1,
+    "hpRatio": 0.5,
+    "maxHp": 900.0,
+    "modelPath": "Asset/Models/Character/Enemy/LastBoss/Mutane.gltf",
+    "moveSpeed": 0.15000000596046448,
+    "name": "LastBoss",
+    "position": [
+        0.0,
+        0.28469276428222656,
+        50.0
+    ],
+	"rimLightColor": [
+		1.0,
+		0.20000000298023224,
+		0.25
+	],
+    "rimPower": 5.0,
+    "rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "rotationSpeed": 10.0,
+    "scale": [
+        2.0,
+        2.0,
+        2.0
+    ],
+    "searchRadius": 15.0,
+    "type": "LastBoss"
+}

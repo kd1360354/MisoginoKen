@@ -1,0 +1,20 @@
+{
+	"modelPath": "Asset/Models/Map/Stage1/Honden/Honden.gltf",
+	"name": "Honden",
+	"position": [
+		0.0,
+		0.0,
+		100.0
+	],
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		0.5,
+		0.5,
+		0.5
+	],
+	"type": "Honden"
+}

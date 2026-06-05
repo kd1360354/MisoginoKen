@@ -1,0 +1,20 @@
+{
+	"modelPath": "Asset/Models/Map/Stage1/Sakura/Sakura.gltf",
+	"name": "Sakura",
+	"position": [
+		60.0,
+		0.0,
+		-7.0
+	],
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		1.0,
+		1.0,
+		1.0
+	],
+	"type": "Sakura"
+}

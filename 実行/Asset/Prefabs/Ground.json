@@ -1,0 +1,20 @@
+{
+	"modelPath": "Asset/Models/Map/Stage1/Ground/Ground.gltf",
+	"name": "Ground",
+	"position": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"rotation": [
+		0.0,
+		0.0,
+		0.0
+	],
+	"scale": [
+		125.0,
+		1.0,
+		125.0
+	],
+	"type": "Ground"
+}
