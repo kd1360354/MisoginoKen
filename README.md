@@ -1,7 +1,10 @@
 # 3Dアクションゲーム『禊の剣』
 
 ## 📺 プレイ動画
-[![プレイ動画](https://youtu.be/noXluIoCWq8)
+> [!IMPORTANT]
+> 映像をクリックすると、YouTube（紹介動画）へジャンプします。
+
+[![プレイ動画](https://img.youtube.com/vi/noXluIoCWq8/maxresdefault.jpg)](https://youtu.be/noXluIoCWq8)
 
 ---
 
@@ -32,9 +35,9 @@
 ## 📁 主要コードへのリンク（ソースコードの確認）
 特に注力して実装した、自作のコアロジック部分のソースコードです。
 
-- [ステートパターンによる状態管理・アクション遷移のコード](【ここにGitHubの該当ファイルURL】)
-- [自前のベクトル演算・挙動制御および当たり判定最適化のコード](【ここにGitHubの該当ファイルURL】)
-- [自作したデバッグ用ワイヤー・ボーン可視化機能のコード](【ここにGitHubの該当ファイルURL】)
+- [ステートパターンによる状態管理・アクション遷移のコード](https://github.com/kd1360354/MisoginoKen/tree/main/%E3%82%BD%E3%83%BC%E3%82%B9/Src/Framework/StateMachine/Player/PlayerState)
+- [ビヘイビアーツリーによる敵の行動制御のコード](https://github.com/kd1360354/MisoginoKen/tree/main/%E3%82%BD%E3%83%BC%E3%82%B9/Src/Framework/AI/BehaviorTree)
+
 
 ---
 
